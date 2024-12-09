@@ -1,5 +1,5 @@
 import profileImage from "../../assets/profile.png";
-import SocialLinks from "../commonUI/socialLinks";
+import SocialLinks from "../commonUI/SocialLinks";
 
 const Home = () => {
 	return (

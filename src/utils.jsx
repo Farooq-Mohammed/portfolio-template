@@ -1,5 +1,5 @@
 import JavaSVG from "./assets/svg/JavaSVG";
-import HtmlSVG from "./assets/svg/HTMLSVG";
+import HtmlSVG from "./assets/svg/HtmlSVG";
 import CssSVG from "./assets/svg/CssSVG";
 import JavascriptSVG from "./assets/svg/JavascriptSVG";
 import ReactSVG from "./assets/svg/ReactSVG";

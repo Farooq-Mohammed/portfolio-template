@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../commonUI/Header";
-import SocialLinks from "../commonUI/socialLinks";
+import SocialLinks from "../commonUI/SocialLinks";
 import Button from "../commonUI/Button";
 
 const Message = () => {
